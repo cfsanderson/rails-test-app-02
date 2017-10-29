@@ -2,7 +2,9 @@
 
 This is a test app built following the [Michael Hartl RUBY ON RAILS TUTORIAL (RAILS 5)](https://www.railstutorial.org/book/beginning)
 
-- currently
+- 10/29
+  - completed chapter 1
+  - deployed "hello, Ron" app to Heroku - https://secure-plateau-15957.herokuapp.com/
 
 
 
